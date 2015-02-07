@@ -1,0 +1,45 @@
+JavaScript
+
+Java and C# are similar programming languages that are statically, 
+strongly, and manifestly typed, both are class-based object-oriented,
+both are designed with semi-interpretation or runtime compilation in mind, 
+both use garbage-collection, and both are "curly brace languages" like C and C++.
+
+VB.NET
+
+Though C# and VB.NET are syntactically very different, that is where the differences mostly end.
+Microsoft developed both of these languages to be part of the same .NET Framework development platform. 
+They are both developed, managed, and supported by the same language development team at Microsoft.
+They compile to the same intermediate language (IL), which runs against the same .NET Framework runtime libraries.
+Although there are some differences in the programming constructs (discussed further below),
+their differences are primarily syntactic and, 
+assuming one avoids the Visual Basic "Compatibility" libraries provided by Microsoft to aid conversion from VB6,
+almost every command in VB has an equivalent command in C# and vice versa. Lastly,
+both languages reference the same Base Classes of the .NET Framework to extend their functionality.
+As a result, with few exceptions, a program written in either language can be run through a simple syntax converter to translate to the other.
+There are many open source and commercially available products for this task.
+
+C - an older programming language that is described as Hands-on. 
+As the programmer you must tell the program to do everything. 
+Also this language will let you do almost anything. It does not support object orriented code.
+Thus no classes. 
+
+C++ - an extention language per se of C. In C code ++ means increment 
+1. Thus C++ is better than C. 
+It allows for highly controlled object orriented code. O
+nce again a very hands on language that goes into MUCH detail.
+
+
+PHP is an interpretive language, and will not be able to do all the things C# can.
+
+Let me just also give PHP some credit here....
+PHP can run on ANY platform, C# can natively ONLY RUN ON WINDOWS driven platforms.
+PHP can actually run background tasks, it just needs a clever programmer to do it. And besides, PHP was NOT designed for those sort of tasks.
+PHP is SIMPLER to learn and use than C# will ever be.
+
+
+Python
+
+Python is winner in: ease of learning, cross platform development, availability of open source libraries
+C# is winner in: standard library, language features, development process and tools, performance, language evolution speed
+Roughly even: syntax (Python is better in readability, C# has more consistent syntax), adoption.
